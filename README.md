@@ -22,10 +22,10 @@ We want to save all the relevant data in a save and useful way, so we can create
 
 ## Milestones for the project
 1. Finish initial setup of backend
-    * Linux [docker] host
-    * SQL-Database ([MariaDB])
-    * Webserver for deployment and additional infos
-    * Add .gitignore
+    * :white_check_mark: Linux [docker] host
+    * :white_check_mark: SQL-Database ([MariaDB])
+    * :white_large_square: Webserver for deployment and additional infos
+    * :white_large_square: Add .gitignore
 
 2. Create initial version of the app in WPF
 3. Create a webapp version hosted on our own website together with all the documentation available for everyone
