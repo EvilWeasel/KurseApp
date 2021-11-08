@@ -14,25 +14,25 @@ CREATE TABLE lecturers (
 
 INSERT INTO lecturers (name,surname,address,postalZip,city,email,creation_timestamp)
 VALUES
-  ("Flynn","Jensen","Ap #487-6233 Sodales Av.","17091","Sankt Wendel","sollicitudin.adipiscing@asollicitudin.org","1650959532"),
-  ("Larissa","Moreno","P.O. Box 563, 4508 Vitae Ave","11433","Neunkirchen","fringilla.mi.lacinia@praesentinterdum.edu","1610394484"),
-  ("Thane","Ball","5973 Ullamcorper Ave","32369","Rathenow","torquent.per.conubia@nulladignissimmaecenas.com","1654893688"),
-  ("Porter","Craig","469-3086 Sed Road","77211","Hamburg","ultrices.iaculis@scelerisquescelerisque.com","1619188605"),
-  ("Briar","Ortega","319-2373 Sed Street","36971","Saarlouis","ipsum@eros.co.uk","1643050313"),
-  ("Jin","Spears","P.O. Box 118, 3825 Quam Rd.","82882","Berlin","purus.accumsan.interdum@velvenenatis.com","1634424976"),
-  ("Daquan","Buckley","678-7117 Molestie Street","34642","Konstanz","erat@sed.edu","1624737675"),
-  ("Kai","Mayo","757-9089 Primis Rd.","06472","Aschaffenburg","mauris@aliquam.org","1605716674"),
-  ("Kaye","Whitney","733-8376 Quisque Av.","71652","Solingen","id.magna@commodohendrerit.edu","1639457361"),
-  ("Zachary","Branch","Ap #172-7425 Augue St.","50131","Pforzheim","sed.est@tellusnon.com","1663501764");
+  ("Flynn","Jensen","Hauptstraße 12","17091","Sankt Wendel","sollicitudin.adipiscing@asollicitudin.org","1650959532"),
+  ("Larissa","Moreno","Nebenstraße 420","11433","Neunkirchen","fringilla.mi.lacinia@praesentinterdum.edu","1610394484"),
+  ("Thane","Ball","Austraße 11","32369","Rathenow","torquent.per.conubia@nulladignissimmaecenas.com","1654893688"),
+  ("Porter","Craig","Bahnhofsstraße 33","77211","Hamburg","ultrices.iaculis@scelerisquescelerisque.com","1619188605"),
+  ("Briar","Ortega","Augustusstraße 12","36971","Saarlouis","ipsum@eros.co.uk","1643050313"),
+  ("Jin","Spears","Lahmstraße 44","82882","Berlin","purus.accumsan.interdum@velvenenatis.com","1634424976"),
+  ("Daquan","Buckley","Doubleweg 15","34642","Konstanz","erat@sed.edu","1624737675"),
+  ("Kai","Mayo","Untere Neckarstr. 12","06472","Aschaffenburg","mauris@aliquam.org","1605716674"),
+  ("Kaye","Whitney","Obere Neckarstraße 87","71652","Solingen","id.magna@commodohendrerit.edu","1639457361"),
+  ("Zachary","Branch","Richard-Von-Wagner-Straße 1","50131","Pforzheim","sed.est@tellusnon.com","1663501764");
 INSERT INTO lecturers (name,surname,address,postalZip,city,email,creation_timestamp)
 VALUES
-  ("Lucas","Marshall","658-4689 Non Ave","81414","Bremerhaven","donec.est@penatibuset.co.uk","1626615244"),
-  ("Madaline","Roy","788-3186 Pellentesque St.","65620","Hamburg","pede.malesuada.vel@feugiatloremipsum.net","1643109801"),
-  ("Zachary","Logan","995-7867 Fringilla Avenue","34832","Wadgassen","donec.est@ornare.co.uk","1619321068"),
-  ("Price","Sykes","722-9359 Eget Rd.","14871","Bexbach","magna@dis.edu","1651968775"),
-  ("Keelie","Porter","961-3582 Nec Avenue","84150","Remscheid","integer@liberomorbi.ca","1618618214"),
-  ("Maite","White","248-2014 Sed Road","56482","Sankt Ingbert","sed@tellussemmollis.com","1612842432"),
-  ("Shaeleigh","Mckinney","6767 Magna. St.","55898","Karlsruhe","pede@aliquamerat.org","1656255097"),
-  ("Rachel","Kerr","P.O. Box 198, 7694 Morbi Road","78117","Sankt Wendel","elit.fermentum@interdumcurabitur.com","1647015730"),
-  ("Ulysses","Lucas","P.O. Box 696, 6461 Interdum Rd.","83504","Bremerhaven","lorem.sit@nullavulputate.net","1619596874"),
-  ("Tanya","Cannon","Ap #226-5323 Erat Rd.","65549","Völklingen","lobortis@anuncin.ca","1619283758");
+  ("Lucas","Marshall","Hauptstraße 12","81414","Bremerhaven","donec.est@penatibuset.co.uk","1626615244"),
+  ("Madaline","Roy","Nebenstraße 420","65620","Hamburg","pede.malesuada.vel@feugiatloremipsum.net","1643109801"),
+  ("Zachary","Logan","Austraße 11","34832","Wadgassen","donec.est@ornare.co.uk","1619321068"),
+  ("Price","Sykes","Bahnhofsstraße 33","14871","Bexbach","magna@dis.edu","1651968775"),
+  ("Keelie","Porter","Augustusstraße 12","84150","Remscheid","integer@liberomorbi.ca","1618618214"),
+  ("Maite","White","Lahmstraße 44","56482","Sankt Ingbert","sed@tellussemmollis.com","1612842432"),
+  ("Shaeleigh","Mckinney","Doubleweg 15","55898","Karlsruhe","pede@aliquamerat.org","1656255097"),
+  ("Rachel","Kerr","Untere Neckarstr. 12","78117","Sankt Wendel","elit.fermentum@interdumcurabitur.com","1647015730"),
+  ("Ulysses","Lucas","Obere Neckarstraße 87","83504","Bremerhaven","lorem.sit@nullavulputate.net","1619596874"),
+  ("Tanya","Cannon","Richard-Von-Wagner-Straße 1","65549","Völklingen","lobortis@anuncin.ca","1619283758");
